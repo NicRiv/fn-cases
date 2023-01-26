@@ -1,0 +1,20 @@
+{
+  "name": "fn-cases",
+  "version": "0.1.0",
+  "description": "a simple way to test your javascript functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicRiv/fn-cases.git"
+  },
+  "keywords": ["test", "node.js"],
+  "author": "NicRiv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicRiv/fn-cases/issues"
+  },
+  "homepage": "https://github.com/NicRiv/fn-cases#readme"
+}
