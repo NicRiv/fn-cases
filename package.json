@@ -1,6 +1,6 @@
 {
   "name": "fn-cases",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "a simple way to test your javascript functions",
   "main": "index.js",
   "scripts": {
