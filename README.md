@@ -10,7 +10,7 @@ npm i fn-cases
 ## Easy to use!
 Test your expected output
 
-```
+```javascript
 const fnCases = require('fn-cases')
 
 const passed = (parameter) => parameter * 2
