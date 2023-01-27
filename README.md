@@ -3,7 +3,9 @@
 A simple way to test your JavaScript functions.
 
 ## Installation
-`npm i fn-cases`
+```
+npm i fn-cases
+```
 
 ## Easy to use!
 Test your expected output
