@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/NicRiv/fn-cases.git"
   },
-  "keywords": ["test", "node.js"],
+  "keywords": ["test", "util", "node", "testing", "utilities", "functional"],
   "author": "NicRiv",
   "license": "MIT",
   "bugs": {
