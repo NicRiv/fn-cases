@@ -1,6 +1,6 @@
 {
   "name": "fn-cases",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple way to test your javascript functions",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/NicRiv/fn-cases.git"
   },
-  "keywords": ["test", "util", "node", "testing", "utilities", "functional"],
+  "keywords": [
+    "test",
+    "util",
+    "node",
+    "testing",
+    "utilities",
+    "functional"
+  ],
   "author": "NicRiv",
   "license": "MIT",
   "bugs": {
